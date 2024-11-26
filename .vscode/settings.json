@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f3a9af4d-8770-4dd8-b52d-7b2e2327dee9/resourceGroups/MiniProjetGroup/providers/Microsoft.Web/sites/projetcoud",
+    "appService.deploySubpath": ".git"
+}
